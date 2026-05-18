@@ -1,2 +1,28 @@
-# CodeAlpha_Exploratory-Data-Analysis
-Exploratory Data Analysis (EDA) project completed using Python, Pandas, Matplotlib, and Seaborn. This project includes data cleaning, statistical analysis, visualization, correlation analysis, outlier detection, and trend identification using real-world datasets in Jupyter Notebook.
+# CodeAlpha - Exploratory Data Analysis Project
+
+## Overview
+This project performs Exploratory Data Analysis (EDA) using Python libraries like Pandas, Matplotlib, and Seaborn.
+
+## Features
+- Data Cleaning
+- Missing Value Detection
+- Correlation Analysis
+- Data Visualization
+- Outlier Detection
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Dataset
+The dataset used in this project is included in the repository.
+
+## Output
+All generated graphs are stored in the graphs folder.
+
+## Author
+Anurag Tiwari
